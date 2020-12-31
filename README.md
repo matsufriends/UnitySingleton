@@ -6,7 +6,7 @@ MonoBehaviourを**継承しない**クラスのシングルトン
 # SingletonMono.cs
 MonoBehaviourを**継承する**クラスのシングルトン
 
-インスタンス初生成時の処理は、任意で**OnInstanceMadeメソッド**をOverrideして記述。
+インスタンス初生成時の処理は、任意で**OnInstanceMadeメソッド**をOverrideして記述
 
 # 使用例
 
