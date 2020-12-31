@@ -1,8 +1,5 @@
-# UnitySingleton
-自分向けUnityのSingleton
-
-#Singleton.cs
+# Singleton.cs
 MonoBehaviourを継承しないクラスのシングルトン
 
-#SingletonMono.cs
+# SingletonMono.cs
 MonoBehaviourを継承するクラスのシングルトン
