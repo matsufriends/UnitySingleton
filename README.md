@@ -1,5 +1,5 @@
 # Singleton.cs
-MonoBehaviourを継承しないクラスのシングルトン
+MonoBehaviourを**継承しない**クラスのシングルトン
 
 # SingletonMono.cs
-MonoBehaviourを継承するクラスのシングルトン
+MonoBehaviourを**継承する**クラスのシングルトン
